@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.counter {
+  color: #c20a72;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  font-family: 'Roboto';
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+}
